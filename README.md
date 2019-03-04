@@ -12,10 +12,11 @@ ow
 toxicity within the market. We implement two approaches to classifying trading volume, the Bulk
 Classification algorithm and the Lee-Ready algorithm, for stocks listed on the Johannesburg Stock
 Exchange (JSE) and find no resemblance between the 
-uctuations of VPIN over time resulting
+fluctuations of VPIN over time resulting
 from the two approaches.
+
 Even though there is no agreement between the 
-uctuations of VPIN for the two approaches, we
+fluctuations of VPIN for the two approaches, we
 do however find a relation between the overall levels in VPIN for the two approaches for frequently
 traded stocks with high market capitalisations. Furthermore, we find that infrequently traded
 stocks with lower market capitalisations give much lower levels of VPIN for the Bulk Classification
