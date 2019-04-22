@@ -2,14 +2,13 @@
 
 We study the Volume-Synchronized Probability of Informed Trading (VPIN) metric as proposed
 by Easley et al. (2012)[1] to indicate order 
-ow toxicity, a phenomenon in high-frequency trading
+flow toxicity, a phenomenon in high-frequency trading
 where market makers may be unaware they are providing liquidity at a loss due to the adverse
 selection problem. We take you through the derivation of the original Probability of Informed
 Trading (PIN) model introduced by Easley et al. (1996)[2] which forms the foundation of the
 VPIN metric. The VPIN metric requires the classification of trading volume as being buyer- or
 seller-initiated in order to calculate the Order Imbalance which provides an indication of order 
-ow
-toxicity within the market. We implement two approaches to classifying trading volume, the Bulk
+flow toxicity within the market. We implement two approaches to classifying trading volume, the Bulk
 Classification algorithm and the Lee-Ready algorithm, for stocks listed on the Johannesburg Stock
 Exchange (JSE) and find no resemblance between the 
 fluctuations of VPIN over time resulting
